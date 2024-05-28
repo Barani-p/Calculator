@@ -1,0 +1,37 @@
+table{
+    margin: 150px auto;
+    height: 300px;
+    width: 300px;
+    color: white;
+    font-family:sans-serif ;
+    font-size: 20px;
+    box-shadow: 3px 3px 10px rgb(59, 52, 52),
+                3px 3px 10px
+
+}
+button{
+    width: 100%;
+    border-radius: 5px;
+}
+button{
+  font-size: 25px;
+  font-family:sans-serif;
+  
+}
+input{
+    font-size: 25px;
+    padding: 10px;
+  
+}
+.cls{
+    padding: 20px;
+    background-color: rgb(36, 39, 51);
+    border-radius: 10px;
+}
+#output{
+    border-radius: 10px;   
+}
+.del,.add{
+   background-color: orange;
+   padding: 5px;
+}
